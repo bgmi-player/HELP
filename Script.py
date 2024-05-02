@@ -206,7 +206,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {script.CAPTION}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {CUSTOM_FILE_CAPTION}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
