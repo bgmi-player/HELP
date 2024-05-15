@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://graph.org/file/bcd3272c50a5731cf838a.jpg" alt="Gᴋᴋ™ Telugu Movie Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
