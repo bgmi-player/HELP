@@ -67,8 +67,8 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'iam_channel_admin') # owner user
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+1QPOjABsKX43MTM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movies_Telugu_Top')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/19')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/19')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+1QPOjABsKX43MTM1') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -92,8 +92,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'onepagelink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'af9db4f2101c694903f51fb75b413cb9b3ed846b')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', '0fea9c71bdae17f8de208969af93f590eb04ca0f')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
