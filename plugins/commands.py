@@ -413,7 +413,7 @@ async def start(client, message):
                     )
                     return
             if STREAM_MODE == True:
-                button = [
+                button = [[
                         InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/iam_channel_admin")
                     ]]
             else:
